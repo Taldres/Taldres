@@ -1,1 +1,1 @@
-[![/dev/null activity](https://dev-null.sh/@Taldres/graph.svg)](https://dev-null.sh/@Taldres)
+[![/dev/null activity](https://dev-null.sh/@Taldres/graph.svg?theme=auto)](https://dev-null.sh/@Taldres)
